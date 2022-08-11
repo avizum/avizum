@@ -1,8 +1,8 @@
 ### Hello, I am avizum!
 
-- I go by avizum or avi. 
-- I am working on [Avimetry](https://top.gg/bot/756257170521063444), a Discord bot written in Python with the [discord.py](https://github.com/Rapptz/discord.py) library.
-- I made an async API wrapper (WIP) for GitHub Gist. You can find it [here.](https://github.com/avizum/asyncgist)
+- I go by avizum, avi, and Julius. 
+- I play the horn, trumpet and mello, and code as a hobby.
+- I own a Discord bot, [Avimetry](https://top.gg/bot/756257170521063444), and I also develop a different Discord bot at [Oi](https://top.gg/bot/867713143366746142)
 - You can contact me on Discord at [avizum#0735](https://discord.com/users/750135653638865017)
 
 ![Count](https://komarev.com/ghpvc/?username=avizum)
